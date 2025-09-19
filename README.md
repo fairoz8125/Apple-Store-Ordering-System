@@ -1,6 +1,3 @@
-# Apple-Store-Ordering-System
-“Python project for ordering Apple products”
-
 # ================================
 #   Apple Store - Product Ordering
 # ================================
